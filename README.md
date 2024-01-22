@@ -73,6 +73,12 @@ Pixelated UMAP
 
 <img src="https://github.com/emuchni2/neuralVisuals/assets/85625059/91a05a0d-c717-48be-b42b-f2fda3467e9f" alt="Neural Embedding Scroller" width="400" height="400">
 
+## PYTHON NOTEBOOKS
+
+See the IPYNB notebooks in the corresponding folder. To see descriptions follow the link:
+
+https://docs.google.com/document/d/1b8mM1iIZQ_d6nVThbMlvDFKTJ4s32-cboXrCIKfY-aQ/edit?usp=sharing
+
 
 ## **Contact**
 - Ethan Muchnik (Gardner Lab)
